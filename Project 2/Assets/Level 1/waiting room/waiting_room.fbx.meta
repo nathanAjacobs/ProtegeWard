@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: ba82c5b1a2386314a8efc7530fdc7b91
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Doorway_open2:pCube1
+    100002: Doorway_open3:pCube1
+    100004: group5
+    100006: group5_wall_corner7:polySurface1
+    100008: group5_wall_corner7:transform1
+    100010: group5_wall_corner7:transform2
+    100012: pasted__group3
+    100014: pasted__pasted__pCube1
+    100016: pasted__pCube1
+    100018: pasted__pCube6
+    100020: pasted__polySurface1
+    100022: pasted__polySurface1 1
+    100024: pasted__polySurface2
+    100026: pasted__polySurface2 1
+    100028: pasted__transform1
+    100030: pasted__transform10
+    100032: pasted__transform11
+    100034: pasted__transform2
+    100036: pasted__transform3
+    100038: pasted__transform7
+    100040: pasted__transform8
+    100042: pasted__transform9
+    100044: //RootNode
+    100046: wall3:pCube1
+    100048: wall3:pCube2
+    100050: wall3:transform1
+    100052: wall3:transform2
+    100054: wall_corner6:Doorway_open:pCube1
+    100056: wall_corner6:group3
+    100058: wall_corner6:pasted__pCube1
+    100060: wall_corner6:pCube1
+    100062: wall_corner6:pCube6
+    100064: wall_corner6:polySurface1
+    100066: wall_corner6:transform1
+    100068: wall_corner6:transform2
+    100070: wall_corner6:transform3
+    100072: wall_corner6:transform7
+    100074: wall_corner6:wall2:pCube1
+    100076: wall_corner6:wall2:pCube2
+    100078: wall_corner6:wall2:transform1
+    100080: wall_corner6:wall2:transform2
+    100082: wall_corner7:Doorway_open:pCube1
+    100084: wall_corner7:group3
+    100086: wall_corner7:pasted__pCube1
+    100088: wall_corner7:pCube1
+    100090: wall_corner7:pCube6
+    100092: wall_corner7:polySurface1
+    100094: wall_corner7:polySurface1 1
+    100096: wall_corner7:transform1
+    100098: wall_corner7:transform2
+    100100: wall_corner7:transform3
+    100102: wall_corner7:transform7
+    100104: wall_corner7:transform8
+    100106: wall_corner7:transform9
+    100108: wall_corner7:wall2:pCube1
+    100110: wall_corner7:wall2:pCube2
+    100112: wall_corner7:wall2:transform1
+    100114: wall_corner7:wall2:transform2
+    100116: wall_corner8:wall_corner4:Doorway_open:pCube1
+    100118: wall_corner8:wall_corner4:group3
+    100120: wall_corner8:wall_corner4:pasted__pCube1
+    100122: wall_corner8:wall_corner4:pCube1
+    100124: wall_corner8:wall_corner4:pCube6
+    100126: wall_corner8:wall_corner4:polySurface1
+    100128: wall_corner8:wall_corner4:polySurface1 1
+    100130: wall_corner8:wall_corner4:transform1
+    100132: wall_corner8:wall_corner4:transform2
+    100134: wall_corner8:wall_corner4:transform3
+    100136: wall_corner8:wall_corner4:transform7
+    100138: wall_corner8:wall_corner4:transform8
+    100140: wall_corner8:wall_corner4:transform9
+    100142: wall_corner8:wall_corner4:wall2:pCube1
+    100144: wall_corner8:wall_corner4:wall2:pCube2
+    100146: wall_corner8:wall_corner4:wall2:transform1
+    100148: wall_corner8:wall_corner4:wall2:transform2
+    400000: Doorway_open2:pCube1
+    400002: Doorway_open3:pCube1
+    400004: group5
+    400006: group5_wall_corner7:polySurface1
+    400008: group5_wall_corner7:transform1
+    400010: group5_wall_corner7:transform2
+    400012: pasted__group3
+    400014: pasted__pasted__pCube1
+    400016: pasted__pCube1
+    400018: pasted__pCube6
+    400020: pasted__polySurface1
+    400022: pasted__polySurface1 1
+    400024: pasted__polySurface2
+    400026: pasted__polySurface2 1
+    400028: pasted__transform1
+    400030: pasted__transform10
+    400032: pasted__transform11
+    400034: pasted__transform2
+    400036: pasted__transform3
+    400038: pasted__transform7
+    400040: pasted__transform8
+    400042: pasted__transform9
+    400044: //RootNode
+    400046: wall3:pCube1
+    400048: wall3:pCube2
+    400050: wall3:transform1
+    400052: wall3:transform2
+    400054: wall_corner6:Doorway_open:pCube1
+    400056: wall_corner6:group3
+    400058: wall_corner6:pasted__pCube1
+    400060: wall_corner6:pCube1
+    400062: wall_corner6:pCube6
+    400064: wall_corner6:polySurface1
+    400066: wall_corner6:transform1
+    400068: wall_corner6:transform2
+    400070: wall_corner6:transform3
+    400072: wall_corner6:transform7
+    400074: wall_corner6:wall2:pCube1
+    400076: wall_corner6:wall2:pCube2
+    400078: wall_corner6:wall2:transform1
+    400080: wall_corner6:wall2:transform2
+    400082: wall_corner7:Doorway_open:pCube1
+    400084: wall_corner7:group3
+    400086: wall_corner7:pasted__pCube1
+    400088: wall_corner7:pCube1
+    400090: wall_corner7:pCube6
+    400092: wall_corner7:polySurface1
+    400094: wall_corner7:polySurface1 1
+    400096: wall_corner7:transform1
+    400098: wall_corner7:transform2
+    400100: wall_corner7:transform3
+    400102: wall_corner7:transform7
+    400104: wall_corner7:transform8
+    400106: wall_corner7:transform9
+    400108: wall_corner7:wall2:pCube1
+    400110: wall_corner7:wall2:pCube2
+    400112: wall_corner7:wall2:transform1
+    400114: wall_corner7:wall2:transform2
+    400116: wall_corner8:wall_corner4:Doorway_open:pCube1
+    400118: wall_corner8:wall_corner4:group3
+    400120: wall_corner8:wall_corner4:pasted__pCube1
+    400122: wall_corner8:wall_corner4:pCube1
+    400124: wall_corner8:wall_corner4:pCube6
+    400126: wall_corner8:wall_corner4:polySurface1
+    400128: wall_corner8:wall_corner4:polySurface1 1
+    400130: wall_corner8:wall_corner4:transform1
+    400132: wall_corner8:wall_corner4:transform2
+    400134: wall_corner8:wall_corner4:transform3
+    400136: wall_corner8:wall_corner4:transform7
+    400138: wall_corner8:wall_corner4:transform8
+    400140: wall_corner8:wall_corner4:transform9
+    400142: wall_corner8:wall_corner4:wall2:pCube1
+    400144: wall_corner8:wall_corner4:wall2:pCube2
+    400146: wall_corner8:wall_corner4:wall2:transform1
+    400148: wall_corner8:wall_corner4:wall2:transform2
+    2100000: lambert1
+    2300000: group5_wall_corner7:polySurface1
+    3300000: group5_wall_corner7:polySurface1
+    4300000: group5_wall_corner7:polySurface1
+    6400000: group5_wall_corner7:polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

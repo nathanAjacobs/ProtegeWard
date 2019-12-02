@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 901e0b5104fbc21428679faafa547017
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Patient_room1:Patient_room:Doorway_open:pCube1
+    100004: Patient_room1:Patient_room:group3
+    100006: Patient_room1:Patient_room:pasted__pCube1
+    100008: Patient_room1:Patient_room:pCube1
+    100010: Patient_room1:Patient_room:pCube6
+    100012: Patient_room1:Patient_room:polySurface1
+    100014: Patient_room1:Patient_room:polySurface1 1
+    100016: Patient_room1:Patient_room:polySurface2
+    100018: Patient_room1:Patient_room:polySurface2 1
+    100020: Patient_room1:Patient_room:transform1
+    100022: Patient_room1:Patient_room:transform10
+    100024: Patient_room1:Patient_room:transform11
+    100026: Patient_room1:Patient_room:transform2
+    100028: Patient_room1:Patient_room:transform3
+    100030: Patient_room1:Patient_room:transform7
+    100032: Patient_room1:Patient_room:transform8
+    100034: Patient_room1:Patient_room:transform9
+    100036: Patient_room1:Patient_room:wall2:pCube1
+    100038: Patient_room1:Patient_room:wall2:pCube2
+    100040: Patient_room1:Patient_room:wall2:transform1
+    100042: Patient_room1:Patient_room:wall2:transform2
+    100044: Patient_room1:Patient_room:wall_corner2:Doorway_open:pCube1
+    100046: Patient_room1:Patient_room:wall_corner2:group3
+    100048: Patient_room1:Patient_room:wall_corner2:pasted__pCube1
+    100050: Patient_room1:Patient_room:wall_corner2:pCube1
+    100052: Patient_room1:Patient_room:wall_corner2:pCube6
+    100054: Patient_room1:Patient_room:wall_corner2:polySurface1
+    100056: Patient_room1:Patient_room:wall_corner2:transform1
+    100058: Patient_room1:Patient_room:wall_corner2:transform2
+    100060: Patient_room1:Patient_room:wall_corner2:transform3
+    100062: Patient_room1:Patient_room:wall_corner2:transform7
+    100064: Patient_room1:Patient_room:wall_corner2:wall2:pCube1
+    100066: Patient_room1:Patient_room:wall_corner2:wall2:pCube2
+    100068: Patient_room1:Patient_room:wall_corner2:wall2:transform1
+    100070: Patient_room1:Patient_room:wall_corner2:wall2:transform2
+    100072: Patient_room1:Patient_room:wall_corner4:Doorway_open:pCube1
+    100074: Patient_room1:Patient_room:wall_corner4:group3
+    100076: Patient_room1:Patient_room:wall_corner4:pasted__pCube1
+    100078: Patient_room1:Patient_room:wall_corner4:pCube1
+    100080: Patient_room1:Patient_room:wall_corner4:pCube6
+    100082: Patient_room1:Patient_room:wall_corner4:polySurface1
+    100084: Patient_room1:Patient_room:wall_corner4:polySurface1 1
+    100086: Patient_room1:Patient_room:wall_corner4:transform1
+    100088: Patient_room1:Patient_room:wall_corner4:transform2
+    100090: Patient_room1:Patient_room:wall_corner4:transform3
+    100092: Patient_room1:Patient_room:wall_corner4:transform7
+    100094: Patient_room1:Patient_room:wall_corner4:transform8
+    100096: Patient_room1:Patient_room:wall_corner4:transform9
+    100098: Patient_room1:Patient_room:wall_corner4:wall2:pCube1
+    100100: Patient_room1:Patient_room:wall_corner4:wall2:pCube2
+    100102: Patient_room1:Patient_room:wall_corner4:wall2:transform1
+    100104: Patient_room1:Patient_room:wall_corner4:wall2:transform2
+    100106: Patient_room1:Patient_room:wall_corner5:wall_corner4:Doorway_open:pCube1
+    100108: Patient_room1:Patient_room:wall_corner5:wall_corner4:group3
+    100110: Patient_room1:Patient_room:wall_corner5:wall_corner4:pasted__pCube1
+    100112: Patient_room1:Patient_room:wall_corner5:wall_corner4:pCube1
+    100114: Patient_room1:Patient_room:wall_corner5:wall_corner4:pCube6
+    100116: Patient_room1:Patient_room:wall_corner5:wall_corner4:polySurface1
+    100118: Patient_room1:Patient_room:wall_corner5:wall_corner4:polySurface1 1
+    100120: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform1
+    100122: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform2
+    100124: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform3
+    100126: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform7
+    100128: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform8
+    100130: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform9
+    100132: Patient_room1:Patient_room:wall_corner5:wall_corner4:wall2:pCube1
+    100134: Patient_room1:Patient_room:wall_corner5:wall_corner4:wall2:pCube2
+    100136: Patient_room1:Patient_room:wall_corner5:wall_corner4:wall2:transform1
+    100138: Patient_room1:Patient_room:wall_corner5:wall_corner4:wall2:transform2
+    400000: //RootNode
+    400002: Patient_room1:Patient_room:Doorway_open:pCube1
+    400004: Patient_room1:Patient_room:group3
+    400006: Patient_room1:Patient_room:pasted__pCube1
+    400008: Patient_room1:Patient_room:pCube1
+    400010: Patient_room1:Patient_room:pCube6
+    400012: Patient_room1:Patient_room:polySurface1
+    400014: Patient_room1:Patient_room:polySurface1 1
+    400016: Patient_room1:Patient_room:polySurface2
+    400018: Patient_room1:Patient_room:polySurface2 1
+    400020: Patient_room1:Patient_room:transform1
+    400022: Patient_room1:Patient_room:transform10
+    400024: Patient_room1:Patient_room:transform11
+    400026: Patient_room1:Patient_room:transform2
+    400028: Patient_room1:Patient_room:transform3
+    400030: Patient_room1:Patient_room:transform7
+    400032: Patient_room1:Patient_room:transform8
+    400034: Patient_room1:Patient_room:transform9
+    400036: Patient_room1:Patient_room:wall2:pCube1
+    400038: Patient_room1:Patient_room:wall2:pCube2
+    400040: Patient_room1:Patient_room:wall2:transform1
+    400042: Patient_room1:Patient_room:wall2:transform2
+    400044: Patient_room1:Patient_room:wall_corner2:Doorway_open:pCube1
+    400046: Patient_room1:Patient_room:wall_corner2:group3
+    400048: Patient_room1:Patient_room:wall_corner2:pasted__pCube1
+    400050: Patient_room1:Patient_room:wall_corner2:pCube1
+    400052: Patient_room1:Patient_room:wall_corner2:pCube6
+    400054: Patient_room1:Patient_room:wall_corner2:polySurface1
+    400056: Patient_room1:Patient_room:wall_corner2:transform1
+    400058: Patient_room1:Patient_room:wall_corner2:transform2
+    400060: Patient_room1:Patient_room:wall_corner2:transform3
+    400062: Patient_room1:Patient_room:wall_corner2:transform7
+    400064: Patient_room1:Patient_room:wall_corner2:wall2:pCube1
+    400066: Patient_room1:Patient_room:wall_corner2:wall2:pCube2
+    400068: Patient_room1:Patient_room:wall_corner2:wall2:transform1
+    400070: Patient_room1:Patient_room:wall_corner2:wall2:transform2
+    400072: Patient_room1:Patient_room:wall_corner4:Doorway_open:pCube1
+    400074: Patient_room1:Patient_room:wall_corner4:group3
+    400076: Patient_room1:Patient_room:wall_corner4:pasted__pCube1
+    400078: Patient_room1:Patient_room:wall_corner4:pCube1
+    400080: Patient_room1:Patient_room:wall_corner4:pCube6
+    400082: Patient_room1:Patient_room:wall_corner4:polySurface1
+    400084: Patient_room1:Patient_room:wall_corner4:polySurface1 1
+    400086: Patient_room1:Patient_room:wall_corner4:transform1
+    400088: Patient_room1:Patient_room:wall_corner4:transform2
+    400090: Patient_room1:Patient_room:wall_corner4:transform3
+    400092: Patient_room1:Patient_room:wall_corner4:transform7
+    400094: Patient_room1:Patient_room:wall_corner4:transform8
+    400096: Patient_room1:Patient_room:wall_corner4:transform9
+    400098: Patient_room1:Patient_room:wall_corner4:wall2:pCube1
+    400100: Patient_room1:Patient_room:wall_corner4:wall2:pCube2
+    400102: Patient_room1:Patient_room:wall_corner4:wall2:transform1
+    400104: Patient_room1:Patient_room:wall_corner4:wall2:transform2
+    400106: Patient_room1:Patient_room:wall_corner5:wall_corner4:Doorway_open:pCube1
+    400108: Patient_room1:Patient_room:wall_corner5:wall_corner4:group3
+    400110: Patient_room1:Patient_room:wall_corner5:wall_corner4:pasted__pCube1
+    400112: Patient_room1:Patient_room:wall_corner5:wall_corner4:pCube1
+    400114: Patient_room1:Patient_room:wall_corner5:wall_corner4:pCube6
+    400116: Patient_room1:Patient_room:wall_corner5:wall_corner4:polySurface1
+    400118: Patient_room1:Patient_room:wall_corner5:wall_corner4:polySurface1 1
+    400120: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform1
+    400122: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform2
+    400124: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform3
+    400126: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform7
+    400128: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform8
+    400130: Patient_room1:Patient_room:wall_corner5:wall_corner4:transform9
+    400132: Patient_room1:Patient_room:wall_corner5:wall_corner4:wall2:pCube1
+    400134: Patient_room1:Patient_room:wall_corner5:wall_corner4:wall2:pCube2
+    400136: Patient_room1:Patient_room:wall_corner5:wall_corner4:wall2:transform1
+    400138: Patient_room1:Patient_room:wall_corner5:wall_corner4:wall2:transform2
+    2100000: lambert1
+    2300000: Patient_room1:Patient_room:wall_corner4:polySurface1
+    3300000: Patient_room1:Patient_room:wall_corner4:polySurface1
+    4300000: Patient_room1:Patient_room:wall_corner4:polySurface1
+    6400000: Patient_room1:Patient_room:wall_corner4:polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

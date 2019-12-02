@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: f86611b880bbe194f848b3489ece95f1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Operating_room1:wall_corner7:group17
+    100004: Operating_room1:wall_corner7:group18
+    100006: Operating_room1:wall_corner7:group19
+    100008: Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    100010: Operating_room1:wall_corner7:Operating_room15:wall_corner7:group14
+    100012: Operating_room1:wall_corner7:Operating_room16:wall_corner7:group17
+    100014: Operating_room1:wall_corner7:Operating_room16:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    100016: Operating_room1:wall_corner7:Operating_room16:wall_corner7:Operating_room15:wall_corner7:group14
+    100018: Operating_room1:wall_corner7:Operating_room17:wall_corner7:group17
+    100020: Operating_room1:wall_corner7:Operating_room17:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    100022: Operating_room1:wall_corner7:Operating_room17:wall_corner7:Operating_room15:wall_corner7:group14
+    100024: wall_corner14:wall_corner4:Doorway_open:pCube1
+    100026: wall_corner14:wall_corner4:group3
+    100028: wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    100030: wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform1
+    100032: wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform2
+    100034: wall_corner14:wall_corner4:pasted__pCube1
+    100036: wall_corner14:wall_corner4:pCube1
+    100038: wall_corner14:wall_corner4:pCube6
+    100040: wall_corner14:wall_corner4:polySurface1
+    100042: wall_corner14:wall_corner4:transform1
+    100044: wall_corner14:wall_corner4:transform2
+    100046: wall_corner14:wall_corner4:transform3
+    100048: wall_corner14:wall_corner4:transform7
+    100050: wall_corner14:wall_corner4:wall2:pCube1
+    100052: wall_corner14:wall_corner4:wall2:pCube2
+    100054: wall_corner14:wall_corner4:wall2:transform1
+    100056: wall_corner14:wall_corner4:wall2:transform2
+    100058: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    100060: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform1
+    100062: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform2
+    100064: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:polySurface1
+    100066: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:transform1
+    100068: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:transform2
+    100070: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    100072: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform1
+    100074: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform2
+    100076: wall_corner16:wall_corner4:Doorway_open:pCube1
+    100078: wall_corner16:wall_corner4:group3
+    100080: wall_corner16:wall_corner4:pasted__pCube1
+    100082: wall_corner16:wall_corner4:pCube1
+    100084: wall_corner16:wall_corner4:pCube6
+    100086: wall_corner16:wall_corner4:polySurface1
+    100088: wall_corner16:wall_corner4:transform1
+    100090: wall_corner16:wall_corner4:transform2
+    100092: wall_corner16:wall_corner4:transform3
+    100094: wall_corner16:wall_corner4:transform7
+    100096: wall_corner16:wall_corner4:wall2:pCube1
+    100098: wall_corner16:wall_corner4:wall2:pCube2
+    100100: wall_corner16:wall_corner4:wall2:transform1
+    100102: wall_corner16:wall_corner4:wall2:transform2
+    400000: //RootNode
+    400002: Operating_room1:wall_corner7:group17
+    400004: Operating_room1:wall_corner7:group18
+    400006: Operating_room1:wall_corner7:group19
+    400008: Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    400010: Operating_room1:wall_corner7:Operating_room15:wall_corner7:group14
+    400012: Operating_room1:wall_corner7:Operating_room16:wall_corner7:group17
+    400014: Operating_room1:wall_corner7:Operating_room16:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    400016: Operating_room1:wall_corner7:Operating_room16:wall_corner7:Operating_room15:wall_corner7:group14
+    400018: Operating_room1:wall_corner7:Operating_room17:wall_corner7:group17
+    400020: Operating_room1:wall_corner7:Operating_room17:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    400022: Operating_room1:wall_corner7:Operating_room17:wall_corner7:Operating_room15:wall_corner7:group14
+    400024: wall_corner14:wall_corner4:Doorway_open:pCube1
+    400026: wall_corner14:wall_corner4:group3
+    400028: wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    400030: wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform1
+    400032: wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform2
+    400034: wall_corner14:wall_corner4:pasted__pCube1
+    400036: wall_corner14:wall_corner4:pCube1
+    400038: wall_corner14:wall_corner4:pCube6
+    400040: wall_corner14:wall_corner4:polySurface1
+    400042: wall_corner14:wall_corner4:transform1
+    400044: wall_corner14:wall_corner4:transform2
+    400046: wall_corner14:wall_corner4:transform3
+    400048: wall_corner14:wall_corner4:transform7
+    400050: wall_corner14:wall_corner4:wall2:pCube1
+    400052: wall_corner14:wall_corner4:wall2:pCube2
+    400054: wall_corner14:wall_corner4:wall2:transform1
+    400056: wall_corner14:wall_corner4:wall2:transform2
+    400058: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    400060: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform1
+    400062: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform2
+    400064: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:polySurface1
+    400066: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:transform1
+    400068: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:transform2
+    400070: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:pCube1
+    400072: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform1
+    400074: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:transform2
+    400076: wall_corner16:wall_corner4:Doorway_open:pCube1
+    400078: wall_corner16:wall_corner4:group3
+    400080: wall_corner16:wall_corner4:pasted__pCube1
+    400082: wall_corner16:wall_corner4:pCube1
+    400084: wall_corner16:wall_corner4:pCube6
+    400086: wall_corner16:wall_corner4:polySurface1
+    400088: wall_corner16:wall_corner4:transform1
+    400090: wall_corner16:wall_corner4:transform2
+    400092: wall_corner16:wall_corner4:transform3
+    400094: wall_corner16:wall_corner4:transform7
+    400096: wall_corner16:wall_corner4:wall2:pCube1
+    400098: wall_corner16:wall_corner4:wall2:pCube2
+    400100: wall_corner16:wall_corner4:wall2:transform1
+    400102: wall_corner16:wall_corner4:wall2:transform2
+    2100000: lambert1
+    2300000: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:polySurface1
+    3300000: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:polySurface1
+    4300000: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:polySurface1
+    6400000: wall_corner14:wall_corner4:wall_corner15:wall_corner4:wall_corner14:wall_corner4:Operating_room1:wall_corner7:Operating_room15:wall_corner7:Doorway_open6:wall_corner14:wall_corner4:polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

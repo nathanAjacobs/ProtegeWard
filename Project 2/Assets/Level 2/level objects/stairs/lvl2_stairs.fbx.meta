@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 51eb5dbb06713d14ba439ee32da65b85
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: group16
+    100002: group17
+    100004: group18
+    100006: group19
+    100008: //RootNode
+    100010: pasted__group16
+    100012: pasted__group17
+    100014: pasted__group18
+    100016: pasted__pasted__group16
+    100018: pasted__pasted__group17
+    100020: pasted__pasted__pasted__group16
+    100022: pasted__pasted__pasted__pasted__pCylinder1
+    100024: pasted__pasted__pasted__pCylinder1
+    100026: pasted__pasted__pasted__pCylinder1 1
+    100028: pasted__pasted__pCylinder1
+    100030: pasted__pCylinder1
+    100032: pCube9
+    100034: pCylinder1
+    100036: pCylinder2
+    100038: pCylinder3
+    100040: transform46
+    100042: transform47
+    100044: transform48
+    100046: transform49
+    100048: transform50
+    100050: transform51
+    100052: transform52
+    100054: transform53
+    400000: group16
+    400002: group17
+    400004: group18
+    400006: group19
+    400008: //RootNode
+    400010: pasted__group16
+    400012: pasted__group17
+    400014: pasted__group18
+    400016: pasted__pasted__group16
+    400018: pasted__pasted__group17
+    400020: pasted__pasted__pasted__group16
+    400022: pasted__pasted__pasted__pasted__pCylinder1
+    400024: pasted__pasted__pasted__pCylinder1
+    400026: pasted__pasted__pasted__pCylinder1 1
+    400028: pasted__pasted__pCylinder1
+    400030: pasted__pCylinder1
+    400032: pCube9
+    400034: pCylinder1
+    400036: pCylinder2
+    400038: pCylinder3
+    400040: transform46
+    400042: transform47
+    400044: transform48
+    400046: transform49
+    400048: transform50
+    400050: transform51
+    400052: transform52
+    400054: transform53
+    2100000: stairs
+    2100002: railing
+    2300000: pCylinder3
+    3300000: pCylinder3
+    4300000: pCylinder3
+    6400000: pCylinder3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
